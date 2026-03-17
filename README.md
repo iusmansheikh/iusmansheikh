@@ -68,10 +68,10 @@ const usman = {
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iusmansheikh&theme=onestar&no-frame=true&margin-w=10" />
+  <img src="https://img.shields.io/badge/Achievements-Active%20Contributor-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Engaged-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-00F7FF?style=for-the-badge" />
 </p>
-
-<p align="center">⚠️ If trophies don’t load, GitHub may be rate-limiting the API. Refresh later.</p>
 
 ---
 
