@@ -68,8 +68,10 @@ const usman = {
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iusmansheikh&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iusmansheikh&theme=onestar&no-frame=true&margin-w=10" />
 </p>
+
+<p align="center">⚠️ If trophies don’t load, GitHub may be rate-limiting the API. Refresh later.</p>
 
 ---
 
