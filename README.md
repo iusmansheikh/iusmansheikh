@@ -1,75 +1,89 @@
-# 👋 Hi, I'm Usman Sheikh
+<!-- PREMIUM GITHUB PROFILE README -->
 
-🚀 **Frontend & Full Stack Developer** based in UAE
+<h1 align="center">⚡ Usman Sheikh ⚡</h1>
+<h3 align="center">Frontend • Full Stack • Problem Solver</h3>
 
-I build modern, responsive web applications with a focus on performance, scalability, and clean UI.
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://linkedin.com/in/iusmansheikh)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://instagram.com/iusmansheikh)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook\&logoColor=white)](https://facebook.com/iusmansheikh)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Clean+Code+%7C+Modern+UI;React+%7C+Node+%7C+Cloud+Ready" />
+</p>
 
 ---
 
-## 💻 Tech Stack
+## 🚀 About Me
 
-### 🚀 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-### ⚙️ Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### 🧰 Others
-
-![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge\&logo=wordpress\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+* 💻 Crafting **high-performance web applications**
+* ⚡ Focused on **clean UI, scalability & performance**
+* 🌍 Based in UAE
+* 🧠 Always exploring new technologies & architectures
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Digital Presence
 
-![](https://github-readme-stats.vercel.app/api?username=iusmansheikh\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=iusmansheikh\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iusmansheikh\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-## 🧠 Currently Learning
-
-* Advanced React Patterns
-* API Integrations & Authentication (SSO, OAuth)
-* Performance Optimization
+<p align="center">
+  <a href="https://linkedin.com/in/iusmansheikh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/iusmansheikh"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://facebook.com/iusmansheikh"><img src="https://img.shields.io/badge/Facebook-111111?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
 
 ---
 
-## 💼 Projects
+## ⚙️ Tech Arsenal
 
-🔹 Add your best projects here (with links)
-
-* Project 1 – Short description
-* Project 2 – Short description
-
----
-
-## 📫 Contact Me
-
-📧 Add your professional email here
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,php,mysql,wordpress,cpp,c&theme=dark" />
+</p>
 
 ---
 
-⭐ *Feel free to check out my repositories and connect!*
+## 📊 Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iusmansheikh&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=iusmansheikh&theme=transparent&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iusmansheikh&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=FFFFFF" width="40%" />
+</p>
+
+---
+
+## 🧠 Current Focus
+
+```javascript
+const usman = {
+  building: ["Scalable Web Apps", "Modern UI Systems"],
+  learning: ["Advanced React", "System Design", "SSO/Auth"],
+  exploring: ["Performance Optimization", "Cloud Integrations"],
+  mindset: "Clean Code • High Impact • Continuous Growth"
+};
+```
+
+---
+
+## 🧩 Featured Work
+
+<p align="center">
+🚧 Coming Soon — Premium Projects Showcase 🚧
+</p>
+
+---
+
+## 📡 Contact
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iusmansheikh&label=Profile%20Views&color=00F7FF&style=flat" />
+</p>
+
+---
+
+<p align="center">
+  ⚡ "Code. Optimize. Scale." ⚡
+</p>
