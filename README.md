@@ -68,7 +68,7 @@ const usman = {
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iusmansheikh&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iusmansheikh&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
@@ -77,8 +77,13 @@ const usman = {
 
 <p align="center">
   <a href="https://linkedin.com/in/iusmansheikh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/iusmansheikh"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/i_usmansheikh"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://facebook.com/iusmansheikh"><img src="https://img.shields.io/badge/Facebook-111111?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Email-hi.usmansheikh%40gmail.com-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" />
+  <img src="https://img.shields.io/badge/Phone-%2B971563371663-00F7FF?style=for-the-badge&logo=whatsapp&logoColor=black" />
 </p>
 
 ---
